@@ -44,7 +44,7 @@ export default class Uwuifier {
     "*walks away*",
     "*sees bulge*",
     "*looks at you*",
-    "*notices buldge*",
+    "*starts crying*",
     "*starts twerking*",
     "*huggles tightly*",
     "*boops your nose*",
