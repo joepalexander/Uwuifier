@@ -42,10 +42,10 @@ export default class Uwuifier {
     "*runs away*",
     "*screeches*",
     "*walks away*",
-    "*sees bulge*",
+    "*NYAA x3*",
     "*looks at you*",
     "*starts crying*",
-    "*starts twerking*",
+    "*Nani intensifies*",
     "*huggles tightly*",
     "*boops your nose*",
   ];
