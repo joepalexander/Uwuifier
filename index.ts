@@ -38,7 +38,7 @@ export default class Uwuifier {
     "*cries*",
     "*screams*",
     "*sweats*",
-    "*twerks*",
+    "*moons public*",
     "*runs away*",
     "*screeches*",
     "*walks away*",
